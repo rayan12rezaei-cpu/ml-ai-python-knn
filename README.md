@@ -12,3 +12,20 @@ We're going to use ...
 - Python
 - CSV
 - ML: _KNN_ + _Regression_
+
+
+dependencies:
+- Python3
+- pip3
+- scikit-learn
+- pandas
+
+After you installed Python3 and pip3 ...
+
+```pip install sklearn```
+
+for install scikit-learn to get started with ML
+
+pandas:
+
+```pip install pandas```
